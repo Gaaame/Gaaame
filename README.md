@@ -22,7 +22,7 @@ I'm passionate about creating **clean, functional, and user-friendly interfaces*
 
 My portfolio showcases my experience, projects, and ongoing development journey.
 
-**[View My Portfolio](YOUR_PORTFOLIO_URL)**
+**[View My Portfolio](https://eugenio-portfolio-2026.netlify.app/)**
 
 ## 📫 Connect With Me
 
