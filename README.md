@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kenneth and I'm a Front End Web Developer from the Philippines.</h2>
+<h2 align="left">Hi 👋! My name is Kenneth and I'm a Front End Web Developer and Aspiring CyberSecurity Analyst from the Philippines.</h2>
 
 ###
 
